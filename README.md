@@ -1,6 +1,3 @@
----
-output: html_document
----
 Sailing
 =======
 There are three cases.
